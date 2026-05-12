@@ -1,0 +1,8 @@
+CompileFlags:
+  Add:
+    - "-ID:/QT/6.8.3/mingw_64/include"
+    - "-ID:/QT/6.8.3/mingw_64/include/QtCore"
+    - "-ID:/QT/6.8.3/mingw_64/include/QtWidgets"
+    - "-ID:/QT/6.8.3/mingw_64/include/QtGui"
+    - "-std=c++17"
+  CompilationDatabase: build
